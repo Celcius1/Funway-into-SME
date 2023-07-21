@@ -1507,7 +1507,7 @@
     (property "Reference" "Q4" (at 241.3 72.39 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Value" "SI2342DS-T1-GE3" (at 241.3 74.93 0)
+    (property "Value" "SI2338DS" (at 241.3 74.93 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Footprint" "Si2342DS:SI2342DS-T1-GE3" (at 241.3 80.264 0)
