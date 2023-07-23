@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DMN2004K-7")(type "KiCad")(uri "${KIPRJMOD}/Additional Parts/DMN2004K-7/DMN2004K-7.pretty")(options "")(descr ""))
+  (lib (name "3310C-001-105L")(type "KiCad")(uri "${KIPRJMOD}/Additional Parts/3310C-001-105L/3310C-001-105L.pretty")(options "")(descr ""))
+  (lib (name "ABI-009-RC")(type "KiCad")(uri "${KIPRJMOD}/Additional Parts/ABI-009-RC/ABI-009-RC.pretty")(options "")(descr ""))
+  (lib (name "CR1220 Holder")(type "KiCad")(uri "${KIPRJMOD}/Additional Parts/1220 Button Cell Holder/CR1220 Holder.pretty")(options "")(descr ""))
+  (lib (name "Si2342DS")(type "KiCad")(uri "${KIPRJMOD}/Additional Parts/Si2342DS/Si2342DS.pretty")(options "")(descr ""))
+)
