@@ -173,20 +173,14 @@
       ],
       "track_widths": [
         0.0,
-        0.25,
+        0.0,
         0.5,
-        0.75,
-        1.0,
         1.25
       ],
       "via_dimensions": [
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.5,
-          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -414,7 +408,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Morse Code Trainer.kicad_pro",
+    "filename": "Electronic Dice.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -491,7 +485,7 @@
   },
   "sheets": [
     [
-      "96b0549e-5fb5-4259-ab57-70a11ae86bb1",
+      "5281ac09-b1e9-4b48-97c1-455d3071fff7",
       ""
     ]
   ],
